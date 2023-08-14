@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1691830685 source:e:\c program\algrothims\sorting_algorithms\selection_sort\selection_sort.c
+	"Selection_Sort.h"
+
+1691829739 e:\c program\algrothims\sorting_algorithms\selection_sort\selection_sort.h
+	"Platform_Types.h"
+
+1691309470 e:\c program\algrothims\sorting_algorithms\selection_sort\platform_types.h
+
+1691834107 source:e:\c program\algrothims\sorting_algorithms\selection_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Selection_Sort.h"
+

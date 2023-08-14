@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1691822450 source:e:\c program\algrothims\sorting_algorithms\bubble_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bubble_Sort.h"
+
+1691309470 e:\c program\algrothims\sorting_algorithms\bubble_sort\platform_types.h
+
+1691822431 source:e:\c program\algrothims\sorting_algorithms\bubble_sort\bubble_sort.c
+	"Bubble_Sort.h"
+
+1691822405 e:\c program\algrothims\sorting_algorithms\bubble_sort\bubble_sort.h
+	"Platform_Types.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1691789652 source:e:\c program\algrothims\binary_search\binary_search.c
+	"Binary_Search.h"
+
+1691789929 e:\c program\algrothims\binary_search\binary_search.h
+	"Platform_Types.h"
+
+1691309470 e:\c program\algrothims\binary_search\platform_types.h
+
+1691789852 source:e:\c program\algrothims\binary_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Binary_Search.h"
+

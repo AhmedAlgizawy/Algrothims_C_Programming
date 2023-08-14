@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1691754468 source:e:\c program\algrothims\linear_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linear_Search.h"
+
+1691309470 e:\c program\algrothims\linear_search\platform_types.h
+
+1691754451 source:e:\c program\algrothims\linear_search\linear_search.c
+	"Linear_Search.h"
+
+1691754451 e:\c program\algrothims\linear_search\linear_search.h
+	"Platform_Types.h"
+

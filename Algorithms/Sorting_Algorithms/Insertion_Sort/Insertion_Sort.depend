@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1691828576 source:e:\c program\algrothims\sorting_algorithms\insertion_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Insertion_Sort.h"
+
+1691863035 e:\c program\algrothims\sorting_algorithms\insertion_sort\insertion_sort.h
+	"Platform_Types.h"
+
+1691309470 e:\c program\algrothims\sorting_algorithms\insertion_sort\platform_types.h
+
+1691861783 source:e:\c program\algrothims\sorting_algorithms\insertion_sort\insertion_sort.c
+	"Insertion_Sort.h"
+
